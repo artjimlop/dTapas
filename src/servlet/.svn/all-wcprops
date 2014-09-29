@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/656/trunk/src/servlet
+END
+ManagerTapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/607/trunk/src/servlet/ManagerTapaRoute.java
+END
+Beers.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/600/trunk/src/servlet/Beers.java
+END
+AddFollower.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/656/trunk/src/servlet/AddFollower.java
+END
+Others.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/607/trunk/src/servlet/Others.java
+END
+ManagerUserCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/607/trunk/src/servlet/ManagerUserCheck.java
+END
+ManagerProductScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/607/trunk/src/servlet/ManagerProductScore.java
+END
+EstablishmentComments.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/600/trunk/src/servlet/EstablishmentComments.java
+END
+ManagerUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/600/trunk/src/servlet/ManagerUser.java
+END
+Foods.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/607/trunk/src/servlet/Foods.java
+END
+ManagerProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/600/trunk/src/servlet/ManagerProduct.java
+END
+Followers.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/607/trunk/src/servlet/Followers.java
+END
+DeleteFollower.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/656/trunk/src/servlet/DeleteFollower.java
+END
+selectproduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/607/trunk/src/servlet/selectproduct.java
+END
+managerEstablishmentComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/252/trunk/src/servlet/managerEstablishmentComment.java
+END
+ManagerWines.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/607/trunk/src/servlet/ManagerWines.java
+END
+ManagerEstablishmentTapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/607/trunk/src/servlet/ManagerEstablishmentTapaRoute.java
+END
+ManagerTapaRouteComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/607/trunk/src/servlet/ManagerTapaRouteComment.java
+END
+ManagerEstablishmentScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/607/trunk/src/servlet/ManagerEstablishmentScore.java
+END
+FrontController.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/600/trunk/src/servlet/FrontController.java
+END
+ManagerUserComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/600/trunk/src/servlet/ManagerUserComment.java
+END
+ManagerComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/600/trunk/src/servlet/ManagerComment.java
+END
+ManagerEstablishment.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/600/trunk/src/servlet/ManagerEstablishment.java
+END
+ManagerTapaRouteCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/644/trunk/src/servlet/ManagerTapaRouteCheck.java
+END
+ManagerProductComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/600/trunk/src/servlet/ManagerProductComment.java
+END
+ManagerUserTapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/600/trunk/src/servlet/ManagerUserTapaRoute.java
+END

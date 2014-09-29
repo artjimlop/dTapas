@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/595/trunk/src/domain
+END
+Establishment.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/595/trunk/src/domain/Establishment.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/584/trunk/src/domain/Comment.java
+END
+ProductComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/574/trunk/src/domain/ProductComment.java
+END
+IActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/449/trunk/src/domain/IActivity.java
+END
+Drink.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/533/trunk/src/domain/Drink.java
+END
+IComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/579/trunk/src/domain/IComment.java
+END
+IEstablishment.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/595/trunk/src/domain/IEstablishment.java
+END
+IWine.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/544/trunk/src/domain/IWine.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/533/trunk/src/domain/User.java
+END
+IDrink.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/544/trunk/src/domain/IDrink.java
+END
+EstablishmentComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/574/trunk/src/domain/EstablishmentComment.java
+END
+IProductScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/579/trunk/src/domain/IProductScore.java
+END
+IBeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/544/trunk/src/domain/IBeer.java
+END
+IRepresentationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/591/trunk/src/domain/IRepresentationActivity.java
+END
+IFood.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/544/trunk/src/domain/IFood.java
+END
+ITapaRouteComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/537/trunk/src/domain/ITapaRouteComment.java
+END
+UserComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/574/trunk/src/domain/UserComment.java
+END
+Wine.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/533/trunk/src/domain/Wine.java
+END
+TapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/533/trunk/src/domain/TapaRoute.java
+END
+IEstablishmentScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/579/trunk/src/domain/IEstablishmentScore.java
+END
+IUserComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/546/trunk/src/domain/IUserComment.java
+END
+ProductScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/584/trunk/src/domain/ProductScore.java
+END
+IProductComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/544/trunk/src/domain/IProductComment.java
+END
+Beer.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/533/trunk/src/domain/Beer.java
+END
+ITapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/533/trunk/src/domain/ITapaRoute.java
+END
+RepresentationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/591/trunk/src/domain/RepresentationActivity.java
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/533/trunk/src/domain/Product.java
+END
+Other.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/533/trunk/src/domain/Other.java
+END
+TapaRouteComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/574/trunk/src/domain/TapaRouteComment.java
+END
+Food.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/533/trunk/src/domain/Food.java
+END
+IUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/533/trunk/src/domain/IUser.java
+END
+IProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/533/trunk/src/domain/IProduct.java
+END
+IOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/544/trunk/src/domain/IOther.java
+END
+EstablishmentScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/584/trunk/src/domain/EstablishmentScore.java
+END
+IEstablishmentComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/544/trunk/src/domain/IEstablishmentComment.java
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+664
+https://dtapas.googlecode.com/svn/trunk/src
+https://dtapas.googlecode.com/svn
+
+
+
+2012-07-01T07:59:42.353009Z
+660
+nocturnalterror@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+780120c7-6c5b-9e85-19e9-661e0220e777
+
+utils
+dir
+
+dao
+dir
+
+servlet
+dir
+
+domain
+dir
+
+CreacionBD.sql
+file
+
+
+
+
+2012-06-27T16:41:44.356445Z
+cc1257687898daff7c4429071c792c19
+2012-06-27T16:41:59.693636Z
+653
+nocturnalterror@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12409
+
+manager
+dir
+
+business
+dir
+

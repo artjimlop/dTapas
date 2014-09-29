@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/660/trunk/src/business
+END
+IBusinessUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/602/trunk/src/business/IBusinessUser.java
+END
+BusinessTapaRouteComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/660/trunk/src/business/BusinessTapaRouteComment.java
+END
+BusinessFood.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/625/trunk/src/business/BusinessFood.java
+END
+BusinessEstablishmentTapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/597/trunk/src/business/BusinessEstablishmentTapaRoute.java
+END
+IBusinessProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/602/trunk/src/business/IBusinessProduct.java
+END
+IBusinessOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/602/trunk/src/business/IBusinessOther.java
+END
+IBusinessEstablishmentComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/602/trunk/src/business/IBusinessEstablishmentComment.java
+END
+BusinessEstablishmentScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/597/trunk/src/business/BusinessEstablishmentScore.java
+END
+IBusinessFollower.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/654/trunk/src/business/IBusinessFollower.java
+END
+BusinessComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/598/trunk/src/business/BusinessComment.java
+END
+BusinessEstablishment.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/598/trunk/src/business/BusinessEstablishment.java
+END
+BusinessUserTapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/598/trunk/src/business/BusinessUserTapaRoute.java
+END
+BusinessProductComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/598/trunk/src/business/BusinessProductComment.java
+END
+IBusinessActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/618/trunk/src/business/IBusinessActivity.java
+END
+IBusinessEstablishment.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/602/trunk/src/business/IBusinessEstablishment.java
+END
+IBusinessWine.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/602/trunk/src/business/IBusinessWine.java
+END
+IBusinessUserTapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/602/trunk/src/business/IBusinessUserTapaRoute.java
+END
+BusinessUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/598/trunk/src/business/BusinessUser.java
+END
+IBusinessProductScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/602/trunk/src/business/IBusinessProductScore.java
+END
+BusinessEstablishmentComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/598/trunk/src/business/BusinessEstablishmentComment.java
+END
+IBusinessBeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/602/trunk/src/business/IBusinessBeer.java
+END
+BusinessFollower.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/654/trunk/src/business/BusinessFollower.java
+END
+BusinessActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/651/trunk/src/business/BusinessActivity.java
+END
+IBusinessComent.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/602/trunk/src/business/IBusinessComent.java
+END
+IBusinessTapaRouteComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/660/trunk/src/business/IBusinessTapaRouteComment.java
+END
+IBusinessFood.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/625/trunk/src/business/IBusinessFood.java
+END
+IBusinessEstablishmentTapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/602/trunk/src/business/IBusinessEstablishmentTapaRoute.java
+END
+BusinessUserComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/598/trunk/src/business/BusinessUserComment.java
+END
+BusinessWine.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/598/trunk/src/business/BusinessWine.java
+END
+BusinessTapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/597/trunk/src/business/BusinessTapaRoute.java
+END
+IBusinessEstablishmentScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/602/trunk/src/business/IBusinessEstablishmentScore.java
+END
+IBusinessUserComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/602/trunk/src/business/IBusinessUserComment.java
+END
+BusinessProductScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/598/trunk/src/business/BusinessProductScore.java
+END
+IBusinessProductComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/602/trunk/src/business/IBusinessProductComment.java
+END
+BusinessBeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/598/trunk/src/business/BusinessBeer.java
+END
+IBusinessTapaRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/602/trunk/src/business/IBusinessTapaRoute.java
+END
+BusinessProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/598/trunk/src/business/BusinessProduct.java
+END
+BusinessOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/598/trunk/src/business/BusinessOther.java
+END

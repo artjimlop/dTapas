@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/658/trunk/src/dao
+END
+IWineDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/543/trunk/src/dao/IWineDAO.java
+END
+ICommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/543/trunk/src/dao/ICommentDAO.java
+END
+IEstablishmentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/543/trunk/src/dao/IEstablishmentDAO.java
+END
+IProductCommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/543/trunk/src/dao/IProductCommentDAO.java
+END
+JDBCUserCommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/574/trunk/src/dao/JDBCUserCommentDAO.java
+END
+JDBCEstablishmentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/543/trunk/src/dao/JDBCEstablishmentDAO.java
+END
+IProductScoreDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/536/trunk/src/dao/IProductScoreDAO.java
+END
+JDBCCommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/574/trunk/src/dao/JDBCCommentDAO.java
+END
+JDBCWineDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/543/trunk/src/dao/JDBCWineDAO.java
+END
+JDBCProductCommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/574/trunk/src/dao/JDBCProductCommentDAO.java
+END
+IEstablishmentCommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/543/trunk/src/dao/IEstablishmentCommentDAO.java
+END
+JDBCProductScoreDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/588/trunk/src/dao/JDBCProductScoreDAO.java
+END
+IFollowerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/655/trunk/src/dao/IFollowerDAO.java
+END
+IEstablishmentScoreDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/537/trunk/src/dao/IEstablishmentScoreDAO.java
+END
+JDBCEstablishmentCommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/574/trunk/src/dao/JDBCEstablishmentCommentDAO.java
+END
+JDBCFollowerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/655/trunk/src/dao/JDBCFollowerDAO.java
+END
+IUserTapaRouteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/536/trunk/src/dao/IUserTapaRouteDAO.java
+END
+ITapaRouteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/666/trunk/src/dao/ITapaRouteDAO.java
+END
+IOthersDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/543/trunk/src/dao/IOthersDAO.java
+END
+JDBCEstablishmentScoreDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/574/trunk/src/dao/JDBCEstablishmentScoreDAO.java
+END
+IBeerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/543/trunk/src/dao/IBeerDAO.java
+END
+JDBCUserTapaRouteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/658/trunk/src/dao/JDBCUserTapaRouteDAO.java
+END
+JDBCOthersDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/543/trunk/src/dao/JDBCOthersDAO.java
+END
+JDBCTapaRouteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/666/trunk/src/dao/JDBCTapaRouteDAO.java
+END
+IUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/536/trunk/src/dao/IUserDAO.java
+END
+IProductDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/543/trunk/src/dao/IProductDAO.java
+END
+IFoodDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/625/trunk/src/dao/IFoodDAO.java
+END
+IEstablishmentTapaRouteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/537/trunk/src/dao/IEstablishmentTapaRouteDAO.java
+END
+JDBCBeerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/543/trunk/src/dao/JDBCBeerDAO.java
+END
+ITapaRouteCommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/537/trunk/src/dao/ITapaRouteCommentDAO.java
+END
+JDBCUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/536/trunk/src/dao/JDBCUserDAO.java
+END
+JDBCProductDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/543/trunk/src/dao/JDBCProductDAO.java
+END
+JDBCEstablishmentTapaRouteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/658/trunk/src/dao/JDBCEstablishmentTapaRouteDAO.java
+END
+JDBCFoodDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/626/trunk/src/dao/JDBCFoodDAO.java
+END
+JDBCTapaRouteCommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/658/trunk/src/dao/JDBCTapaRouteCommentDAO.java
+END
+IUserCommentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/536/trunk/src/dao/IUserCommentDAO.java
+END

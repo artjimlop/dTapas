@@ -1,0 +1,325 @@
+@CHARSET "ISO-8859-1";
+
+#div_contain{
+	width: 1200px;
+}
+/*
+#div_header{
+	height:130px;
+	background-image: url("../images/banner.jpg");
+}
+
+#div_header span{
+	font-family: fantasy;
+	font-size: 50px;
+}
+
+#div_header,#div_body{
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-bottom: 10px;
+	padding-right: 5px;
+}
+*/
+#div_nav_top{
+	background-color: blue;
+	background-image: url("../images/banner2.jpg");
+	height: 45px;
+	border-bottom: solid gray 1px;
+	display: inline-block;
+	width: 100%;
+}
+
+#div_foot{
+	clear: both;
+	position: relative;
+	top: 25px;
+	height: 50px;
+}
+
+#div_name_subject{
+	float: left;
+	padding-left: 10px;
+}
+
+#div_name_authors{
+	text-align: right;
+	color: RGB(180,180,180);
+	padding-right: 10px;
+}
+
+input{
+	margin-bottom: 5px;
+}
+
+.blue_underline{
+	color: #33B;
+	text-decoration: underline;
+}
+
+.div_error{
+	color: red;
+	text-align: center;
+}
+
+.text_align_center{
+	text-align: center;
+}
+
+.blue_bolder{
+	color: #33B;
+	font-weight: bolder;
+}
+
+.blue{
+	color: #33B;
+}
+
+/* Enlaces
+---------------------------------------------------------------------------------------------*/
+a{
+	text-decoration: none;
+	color: #33B;
+}
+
+a:HOVER{
+	text-decoration: underline;
+	color: #33B;
+}
+
+/* INDEX
+---------------------------------------------------------------------------------------------*/
+#div_form_login fieldset{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+	text-align: center;
+	width: 325px;
+	position: relative;
+	left: 425px;
+}
+
+#div_fin_sesion{
+	color: green;
+}
+
+#div_error_login{
+	color: red;
+}
+
+#input_user,#input_password {
+	width: 250px;
+	margin-bottom: 5px;
+}
+
+#input_password{
+	position: relative;
+	left: 6px;
+}
+
+#line_login{
+	width: 85%;
+}
+
+/* HOME
+---------------------------------------------------------------------------------------------*/
+#div_info_main_user{
+	padding-top: 10px;
+	width:250px;
+	float: left;
+	border-right: solid gray 1px;
+}
+
+#div_more_info_main_user{
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	width:240px;
+	float: left;
+}
+
+#div_image_main_user{
+	float:left;
+	height: 45px;
+	width: 45px;
+	margin-right: 10px;
+}
+
+#div_image_main_user img{
+	width: 45px;
+	height: 45px;
+	border: black solid 1px;
+}
+
+#div_name_main_user{
+	font-weight: bolder;
+	font-size: 15px;
+	color: #33B;
+	padding-top: 2px;
+}
+
+#div_login_main_user{
+	padding-top: 5px;
+	color: grey;
+}
+
+#div_user_space{
+	width: 710px;
+	display: inline-block;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+}
+
+#div_followers_followeds_suggest{
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	width:207px;
+	float: right;
+}
+
+#div_followers_followeds_suggest #div_name_user{
+	text-align: center;
+}
+
+#div_followeds, #div_followers{
+	margin-bottom: 20px;
+	padding-top: 10px;
+}
+
+#div_user_row{
+	background-color: 
+}
+
+#div_user_f{
+	width: 66px;
+	display: inline-table;
+	margin-top: 5px;
+	height: 100%;
+}
+
+#div_image_user{
+	width: 64px;
+	height: 64px;
+	border: black solid 1px;
+}
+
+#title_followeds,#title_followers{
+	font-weight: bold;
+	clear: left;
+}
+
+/* RepresentationActivity */
+
+#div_ar{
+	border-bottom: 1px solid #AAA;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#div_ar_userlogin{
+	display: inline-block;
+	width: 550px;
+}
+
+#div_ar_date{
+	display: inline-block;
+	text-align: right;
+	width: 150px;
+}
+
+#div_ar_contain{
+	margin-top: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+/* NEWTAPAROUTE
+---------------------------------------------------------------------------------------------*/
+
+#input_targetdate{
+	margin-left: 14px;
+}
+
+/* NEWFOOD
+---------------------------------------------------------------------------------------------*/
+
+#input_name{
+	width: 450px;
+}
+
+#input_price{
+	position: relative;
+	left: 98px;
+}
+
+#input_type{
+	position: relative;
+	left: 109px;
+}
+
+#input_quantityscore{
+	position: relative;
+	left: 23px;
+}
+
+#input_pricescore{
+	position: relative;
+	left: 52px;
+}
+
+/* NEWUSER
+---------------------------------------------------------------------------------------------*/
+
+#div_form_user{
+	width: 600px;
+}
+
+#input_user_name, #input_user_surname, #input_user_email{
+	width: 450px;
+}
+
+#input_user_name{
+	position: relative;
+	left: 28px;
+}
+
+#input_user_surname{
+	position: relative;
+	left: 22px;
+}
+
+#input_user_email{
+	position: relative;
+	left: 46px;
+}
+
+#input_user_login{
+	position: relative;
+	left: 45px;
+}
+
+#input_user_password{
+	position: relative;
+	left: 44px;
+}
+
+/* ESTABLISHMENTS
+---------------------------------------------------------------------------------------------*/
+#div_info_establishment{
+	width: 500px;
+	display: inline-block;
+	height: 145px;
+}
+
+#div_image_establishment{
+	width: 200px;	
+	float: right;
+}
+
+#img_establishment{
+	height: 140px;
+}
